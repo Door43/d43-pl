@@ -10,6 +10,10 @@
   * [[pl:obs|Open Bible Stories (pl)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pl|d43-pl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pl/archive/master.zip|d43-pl.zip]]
+
 **Recent Changes**
 {{changes>ns = pl}}
 
