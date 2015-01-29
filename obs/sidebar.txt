@@ -1,11 +1,33 @@
 
 ----
 
-**[[pl:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>pl:obs:stories}}
+  * [[pl:home|Door43 (pl)]]
 
+**Resources**
+
+  * [[pl:obs|Open Bible Stories (pl)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pl|d43-pl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pl/archive/master.zip|d43-pl.zip]]
+
+**Recent Changes**
+{{changes>ns = pl}}
 
 **Latest Status**
 {{page>en:uwadmin:pl:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pl|Ethnologue data]]
+
+**Resources**
+
+  * [[pl:obs|Open Bible Stories (pl)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:pl:obs:status}}
